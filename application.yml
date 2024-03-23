@@ -1,1 +1,1 @@
-movie_info_service_uri="http://movie-info-service/movies/"
+movie-info-service-uri: http://localhost:8082
